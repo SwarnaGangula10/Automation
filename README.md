@@ -1,2 +1,0 @@
-# Automation
-SVN - Jenkins
